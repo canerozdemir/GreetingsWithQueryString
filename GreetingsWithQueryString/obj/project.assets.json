@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozdem\\Desktop\\Siliconmade\\2. Aşama\\AltinciHaftaOdev\\GreetingsWithQueryString\\GreetingsWithQueryString\\GreetingsWithQueryString.csproj",
+      "projectUniqueName": "C:\\Users\\ozdem\\Documents\\GitHub\\GreetingsWithQueryString\\GreetingsWithQueryString\\GreetingsWithQueryString.csproj",
       "projectName": "GreetingsWithQueryString",
-      "projectPath": "C:\\Users\\ozdem\\Desktop\\Siliconmade\\2. Aşama\\AltinciHaftaOdev\\GreetingsWithQueryString\\GreetingsWithQueryString\\GreetingsWithQueryString.csproj",
+      "projectPath": "C:\\Users\\ozdem\\Documents\\GitHub\\GreetingsWithQueryString\\GreetingsWithQueryString\\GreetingsWithQueryString.csproj",
       "packagesPath": "C:\\Users\\ozdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozdem\\Desktop\\Siliconmade\\2. Aşama\\AltinciHaftaOdev\\GreetingsWithQueryString\\GreetingsWithQueryString\\obj\\",
+      "outputPath": "C:\\Users\\ozdem\\Documents\\GitHub\\GreetingsWithQueryString\\GreetingsWithQueryString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

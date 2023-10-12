@@ -45,7 +45,7 @@ namespace GreetingsWithQueryString.Controllers
 
         public IActionResult ResimGoster(int photoId, int count)
         {
-            ViewBag.ResimId = photoId;
+            ViewBag.ResimLinki = $"https://picsum.photos/id/{photoId}/600/400";
             ViewBag.ResimSayisi = count;
             return View();
         }
