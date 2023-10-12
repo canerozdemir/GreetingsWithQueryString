@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GreetingsWithQueryString.props" />
+</Project>
