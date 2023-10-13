@@ -32,14 +32,14 @@ namespace GreetingsWithQueryString.Controllers
         public IActionResult Karsila(string isim, string cinsiyet)
         {
             ViewBag.Isim = isim;
-            ViewBag.Cinsiyet = (cinsiyet == "erkek") ? "Bey" : (cinsiyet == "kadın") ? "Hanım" : "";
+            ViewBag.Cinsiyet = (cinsiyet == "erkek") ? "Bey" : (cinsiyet == "kadin") ? "Hanım" : "";
             return View();
         }
 
         public IActionResult Ugurla(string isim, string cinsiyet)
         {
             ViewBag.Isim = isim;
-            ViewBag.Cinsiyet = (cinsiyet == "erkek") ? "Bey" : (cinsiyet == "kadın") ? "Hanım" : "";
+            ViewBag.Cinsiyet = (cinsiyet == "erkek") ? "Bey" : (cinsiyet == "kadin") ? "Hanım" : "";
             return View();
         }
 
